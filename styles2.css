@@ -1,0 +1,39 @@
+.body{
+    font-size: 24px;
+}
+.red{
+    color:red;
+}
+.green{
+    color:green;
+}
+.blue{
+    color: blue;
+}
+.gold{
+    color:gold;
+}
+.bold{
+    font-weight: 600;
+}
+.xxsmall{
+    font-size: xx-small;
+}
+.xsmall{
+    font-size: x-small;
+}
+.medium{
+    font-size: medium;
+}
+.xlarge{
+    font-size: x-large;
+}
+.large{
+    font-size:  large;
+}
+.small{
+    font-size:  small;
+}
+.xxlarge{
+    font-size: xx-large;
+}
